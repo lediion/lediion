@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lediion 
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web developing
 - 📫 Reach me https://www.linkedin.com/in/ledion-mema-5678b7185/
