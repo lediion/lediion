@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lediion 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C# / .NET
 - 💞️ I’m looking to collaborate on web developing
 - 📫 Reach me https://www.linkedin.com/in/ledion-mema-5678b7185/
 
